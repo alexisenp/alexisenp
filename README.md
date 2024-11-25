@@ -18,7 +18,7 @@ Hi, I'm Alexis Nuñez!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- Soy un programador con más de 15 años de experiencia en el desarrollo de aplicaciones modernas e intuitivas. Vivo en la Región de Coquimbo, Chile, y he trabajado en proyectos que han mejorado procesos para empresas y organizaciones locales.
+- Soy Ingeniero Informatico de profesión y programador de corazón, con más de 15 años de experiencia en el desarrollo de aplicaciones modernas e intuitivas. Vivo en la Región de Coquimbo, Chile, y he trabajado en proyectos que han mejorado procesos para empresas y organizaciones locales.
 
 - Actualmente, soy el encargado de la Oficina de Informática del SERVIU Región de Coquimbo. Paralelamente, estoy desarrollando una aplicación multiplataforma utilizando Flutter como parte de un proyecto personal y ofrezco servicios como desarrollador independiente, creando sistemas a medida que se adaptan a las necesidades específicas de mis clientes.
 
