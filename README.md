@@ -14,16 +14,24 @@ Hi, I'm Alexis Nuñez!
 </p>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;***About me***
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;***Acerca de mi***
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- Ingeniero Informatico de profesión y programador de corazón, con más de 15 años de experiencia en el desarrollo de aplicaciones modernas e intuitivas. Vivo en la Región de Coquimbo, Chile, y he trabajado en proyectos que han mejorado procesos para empresas y organizaciones locales.
+- Ingeniero Informático de profesión y programador de corazón, con más de 15 años de experiencia en el desarrollo de aplicaciones modernas, intuitivas y centradas en el usuario. Vivo en la Región de Coquimbo, Chile, y he liderado proyectos que han optimizado procesos clave para empresas y organizaciones locales.
 
-- Actualmente, soy el encargado de la Oficina de Informática del SERVIU Región de Coquimbo. Paralelamente, estoy desarrollando una aplicación multiplataforma utilizando Flutter como parte de un proyecto personal y además ofrezco servicios como desarrollador independiente, creando sistemas a medida que se adaptan a las necesidades específicas de mis clientes.
+- Mi especialización incluye el desarrollo de interfaces avanzadas con Vue.js y Flutter, así como el diseño e implementación de soluciones basadas en Firebase. Me apasiona crear software que combine funcionalidad y estética, impulsando la transformación digital a través de la tecnología.
 
 
-## 🤝 Connect with me
+- ## ¿Qué hago actualmente?
+
+- Encargado de la Oficina de Informática del SERVIU Región de Coquimbo: Lidero proyectos tecnológicos clave, gestionando soluciones digitales que optimizan los procesos en el sector público.
+- Desarrollo y soporte de la app Mcar: Una aplicación personal multiplataforma desarrollada con Flutter y Firebase, diseñada para ayudar a los usuarios a llevar un registro completo del mantenimiento de su vehículo, incluyendo una bitácora detallada de las mantenciones realizadas, todo con una experiencia moderna, intuitiva y eficiente.
+- Desarrollador freelance: Brindo servicios como programador independiente, creando sistemas personalizados que se adaptan a las necesidades únicas de cada cliente, combinando innovación, funcionalidad y calidad.
+
+
+
+## 🤝 Conéctate conmigo
 <p align="center">
 	<a href="mailto:alexisenp@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/alexisenp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
